@@ -1,5 +1,4 @@
 # Hello, I'm Albert Darchiev! 👋
-## Welcome to my GitHub profile!
 
 ## About Me
 - **Name:** Albert Darchiev
