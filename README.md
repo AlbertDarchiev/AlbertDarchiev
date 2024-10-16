@@ -1,21 +1,20 @@
 # Hello, I'm Albert Darchiev! 👋
-
-Welcome to my GitHub profile! I am passionate about Back-end Development and specialize in using Kotlin, Python, FastAPI, and Firebase to create efficient and scalable applications. Here's a bit more about me:
+## Welcome to my GitHub profile!
 
 ## About Me
 - **Name:** Albert Darchiev
-- **Current Focus:** Back-end Development
+- **Current Focus:** Front-end Development
 - **Location:** Spain, Barcelona
 
 ## Skills
-- **Languages:** Kotlin, Python
-- **Databases:** , Mysql, Postges, MongoDB
-- **Frameworks:** Django, FastApi, ktor
-- **Tools:** Git, pgAdmin
-- **Other:** REST APIs, FastAPI, Firebase, Fl0
+- **Languages:** Kotlin, Java, Dart, Python
+- **Databases:** Mysql, Postges, MongoDB
+- **Frameworks:** Flutter, Jetpack Compose, Django, FastApi, Ktor
+- **Tools:** Git, pgAdmin, postman
+- **Other:** REST APIs, Retrofit, Room, Firebase, Fl0, AWS
 
 ## Learning Goals
-I am currently focused on enhancing my skills in Back-end Development, specifically using Kotlin, Python, FastAPI, and Firebase. I am actively learning and working on projects .I am also interested in exploring new technologies and frameworks to improve my development capabilities.
+I am currently focused on enhancing my skills in Front-end Development and actively learning and working on projects. I am also interested in exploring new technologies and frameworks to improve my development capabilities.
 
 ## Get in Touch
-- Email: albert.darchiev.7e6@itb.cat
+- Email: albertdarchi88@gmail.com
